@@ -8,6 +8,8 @@ bin-release/
 refs/Icon?
 # Other files and folders
 .settings/
+# Ignore refs/heads/Icon? files
+refs/heads/Icon?
 
 # Executables
 *.swf
