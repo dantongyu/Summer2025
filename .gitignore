@@ -5,7 +5,7 @@ bin-release/
 [Bb]in/
 Icon*
 
-
+refs/Icon*
 refs/Icon?
 # Other files and folders
 .settings/
